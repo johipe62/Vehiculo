@@ -23,6 +23,7 @@ public class VehiculoHidalgoPerezJoaquin2223 {
 
     /**
      * @return the precio
+     * 
      */
     public double getPrecio() {
         return precio;
