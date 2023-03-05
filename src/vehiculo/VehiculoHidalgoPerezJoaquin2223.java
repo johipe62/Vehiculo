@@ -9,6 +9,8 @@ package vehiculo;
 public class VehiculoHidalgoPerezJoaquin2223 {
 
     /**
+     * 
+     * 
      * @return the nombre
      */
     public String getNombre() {
