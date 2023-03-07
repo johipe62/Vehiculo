@@ -17,6 +17,7 @@ public class Main {
 
     private static void operativaVehiculosHidalgoPerezJoaquin2223(VehiculoHidalgoPerezJoaquin2223 miVehiculoHIdalgoPerezJoaquin2223, java.lang.Integer cantidad) {
         int stockActual;
+        INT 
         try
         {
             System.out.println("Venta de Vehiculos");
